@@ -1,0 +1,415 @@
+----------------------------
+"Suckin' Grits on Route 66*"
+----------- Developed by Sunstorm Interactive Inc.
+
+Thanks for purchasing "Suckin' Grits on Route 66" add-on episode for
+Redneck Rampage.  This file will step you through the installation process of
+the Route 66 add-on episode.
+
+-----------------------------------------------------------------------------
+Installing "Suckin' Grits on Route 66"
+-----------------------------------------------------------------------------
+
+NOTICE!
+Please note that the "Suckin' Grits on Route 66" add-on is designed and
+tested for use with only the full registered version of Redneck Rampage.
+Any other updates, add-ons, or patches to the original Redneck Rampage
+install, may cause incompatibilities.
+
+---------------------------
+Addendum
+---------------------------
+
+While the required size for install is stated as "Around 15MB" in the manual,
+the actual size is just over 20MB.
+
+---------------------------
+INSTALLING UNDER WINDOWS 95
+---------------------------
+To install while runnig under Windows 95, follow these steps:
+
+1.  Insert the Route 66 CD-ROM into your CD-ROM drive
+
+2.  If you have Autoplay enabled, then the CD-ROM will spin for a few seconds
+    and the setup program will start automatically.
+
+3.  If you do not have autoplay enabled, double-click on 'My Computer', open
+    the CD-ROM and double-click the setup icon.
+
+4.  The setup program will now try to find an installed version of Redneck
+    Rampage.  If setup cannot find an installed version of Redneck Rampage,
+    you will be prompted to BROWSE through the directories to locate the
+    Redneck Rampage install directory.  Once this directory is selected,
+    click 'Next'.
+
+5.  A window will pop up with a list of settings for the setup.  These
+    settings include the group for the shortcut, location of Redneck Rampage,
+    and the amount of disk space required for the installation.  If these
+    settings are acceptable, click 'Next'.
+
+6.  Then Route 66 will then be copied to your computer system.  When this
+    is complete, click the "Finish" button and then you are ready to play the
+    new episode!
+
+To run Route 66, simply run the shortcut that the setup program installed.
+Once Redneck Rampage starts, select the Route 66 episode.
+
+--------------------
+INSTALLING UNDER DOS
+--------------------
+
+To install while running under DOS, follow these steps:
+
+1.  Place the Route 66 CD-ROM in the CD-ROM drive.
+
+2.  From the DOS command prompt, type 'd:' and press Enter, where 'd' is the
+    drive letter of your CD-ROM drive.  Next, type 'install' and press Enter.
+    
+3.  After a few seconds, the DOS-based Route 66 installation program will
+    begin running.  The program will prompt you to enter the location in
+    which you have Redneck Rampage installed.  Enter the full path in the box
+    provided and hit Enter.
+
+4.  The install program will verify that this is the correct location andthen
+    begin copying files.  When the copy if complete, press Enter and then
+    you are ready to play the new episode.
+
+To run Route 66 from the DOS command prompt or from a DOS window in Windows
+95, change into the directory where you have Redneck Rampage installed.
+From this directory, run the Route 66 executable by typing 'route66' and then
+pressing Enter.
+
+---------------------
+UNINSTALLING ROUTE 66
+---------------------
+If for some reason you wish to uninstall the 'Suckin' Grits on Route 66'
+episode, follow these simple steps:
+
+For DOS:  Change directories into the Redneck Rampage directory.  Type
+'uninst66' and hit enter.  All the files associated with the Route 66 add-on
+will be removed from your computer.
+
+For Windows 95:  To uninstall, go to the Control Panel ->  Add/Remove
+Programs, select "Route 66" and click on the Add/Remove button.  The
+uninstaller only removes files installed by the installer.  Any files
+created after the install, (e.g.  config files, save games, etc... ) may be
+removed manually.
+
+----------------------------
+PLAYING MULTIPLAYER ROUTE 66
+----------------------------
+Launching a multiplayer game of any Route 66 map is very similar to the way
+the regular Redneck Rampage maps are launched for multiplayer.  Follow these
+simple steps:
+
+1.  From the START menu shortcut:  There is a Route 66 Multiplayer shortcut
+    accessible from your START menu.  This shortcut can be found under the
+    menu START->PROGRAMS->INTERPLAY->Route 66 Multiplayer.
+
+2.  From a DOS command prompt or DOS Window:  Change to the directory where
+    you have Redneck Rampage installed.  From this directory, run the Route
+    66 Multiplayer executable by typing 'route66m' and then press Enter.
+
+3.  A few seconds after you run the shortcut or the 'route66m' program, the
+    SETUP program for Redneck Rampage will launch.  From the setup program,
+    choose the type of multiplayer connection you wish to use, then select
+    the menu option 'Select User Level', then choose 'Change User Level
+    Search Path', and type 'route66' after the backslash and hit enter.
+    Next, choose 'Select User Level' and pick the level you wish to play
+    from the list.
+
+Then proceed to start the multiplayer game as you would normally.
+
+-----------------------------------------------------------------------------
+Problems, fixes, workarounds
+-----------------------------------------------------------------------------
+
+If you experience any problems installing "Suckin' Grits on Route 66",
+read below for possible solutions and workarounds.
+
+Q:  When I use Alt-Tab to the Windows Desktop, then switch back to Route 66.  
+    A lot of the art is missing.
+A:  There is a simple solution to correcting this problem.  All you need to
+    do is rerun the 'route66.exe' file.
+
+Q:  I can't get the installer to recognize my Redneck Rampage directory! What
+    do I do now?
+A:  First, make sure that Redneck Rampage is currently INSTALLED on your
+    computer. Secondly, the installer looks for a .CFG file to verify the
+    existence of Redneck on your computer, and to detect which version of
+    Redneck you have. Since you cannot run Redneck without a .CFG file, the
+    installer assumes you will have one.
+
+Q:  Route 66 crashed while I was playing it!  
+A:  Should this happen, it 
+    will leave your Redneck Rampage game in an unstable configuration.  You 
+    may not be able to play Redneck until you correct this problem. There is
+    a simple solution to correcting this problem.  All you need to do is
+    rerun the 'route66.exe' file.  Now you can play the new episode as normal.
+
+Q:  The sound and animation is *very* jerky.
+A:  This will happen if you run Windows 95 and have only 16MB RAM.
+    On a few systems with Windows 95, it will happen no matter how much RAM
+    is in your machine.  It may also happen on computers running plain DOS
+    (without Windows 95) if some other program like SMARTDRV.EXE is taking
+    up a lot of memory.
+
+    The first thing to try, as mentioned in the Redneck Rampage printed
+    reference card, is to restart your computer in MS-DOS mode before you
+    play.
+
+    If you continue to experience bad jerkiness problems, try to free up
+    memory taken up by items in your CONFIG.SYS or AUTOEXEC.BAT files.
+    For instance, the SMARTDRV.EXE program takes up a lot of memory and
+    will cause Redneck Rampage animation and sound to become jerky.
+    
+    If you have only 16MB RAM, may we humbly suggest that upgrading to
+    32MB RAM will cost you under US$100 and will probably speed up
+    several parts of Windows 95, Redneck Rampage, and many other things 
+    you do with your computer.                                                                   
+
+Q:  When I restart my computer in MS-DOS mode and try to play the game,
+    I don't get any sound, and my mouse control doesn't work.
+A:  If this happens, it means your computer wasn't configured properly at the 
+    factory to make use of your CD-ROM drive, sound card, or mouse.  :-(  
+    Unfortunately, it takes a lot of knowhow to configure all this crap 
+    yourself.  See the refcard for some basic advice on getting your computer 
+    set up properly.
+
+    If you don't have the drivers and knowhow needed to set up your CD-ROM
+    drive, sound card, and mouse properly under DOS, you *may* want to try
+    playing in a "DOS box" under Windows 95, since Windows 95 gives you all 
+    the hardware drivers you need (except you won't get CD music).  You 
+    should have 32MB RAM if you'd like to try running in a "DOS box".  
+    To try this, double-click the "Pighead" shortcut in the directory on 
+    your hard disk where you installed Redneck Rampage.
+
+Q:  I launch the game but it just displays a black screen and locks up.
+A:  This happens on the ATI Mach32 video card with certain versions of
+    ATI's VESA driver software.  If you have a Mach32, try using the VESA
+    video driver that came with the video card.  (We have seen problems
+    using newer versions of the VESA driver.)
+
+    If you have a different video card, contact the video card company
+    to obtain a VESA driver.  This is usually available on video card
+    companies' World Wide Web and BBS sites.
+
+Q:  This game is too dark!
+A:  Adjust your monitor first, *then* press ESC and choose Options and then
+    adjust the screen brightness.
+
+Q:  My network game is giving lots of out-of-sync errors.
+A:  First, turn monsters off.  Then try fewer players (6 is very fun and 
+    seems optimal). 
+
+Q:  The game plays too slowly.
+A:  Make sure that in the SETUP program you set the screen size to be 
+    640x480. If you set the screen to a higher resolution (like 800X600) 
+    then the game will run much slower.
+
+    Within the game, press "-" repeatedly to shrink the size of the game
+    window. This will speed up play quite a bit.
+
+Q:  I am getting a slow framerate when I play.
+A:  Try turning the Ambience Off in the Sound Options from the Main Menu.  
+    This will turn off the extra sounds you hear when you are walking around
+    and should help speed things back up.  You can also change the amount of 
+    sounds that are playing from the Setup.exe.  This should help out also.
+
+Q:  Sometimes the game acts strangely in co-operative play.
+A:  Co-op play tends to work best with four players or less.  With more 
+    players you might experience bizarre side-effects, like weapons 
+    disappearing, players not exploding when hit by dynamite, keys not
+    spawning, etc.  Two player co-op is highly recommended as optimal, but
+    four can play co-operatively with few side-effects.  Anything above
+    four players is undertaken at your own risk.
+
+
+Should you continue to experience problems, feel free to contact us and we
+will attempt to help you out. Read below to find out how to get support.
+
+-----------------------------------------------------------------------------
+How to get technical support for "Suckin' Grits on Route 66"
+-----------------------------------------------------------------------------
+
+
+Interplay Customer Service
+
+Telephone:  (714) 553-6678
+Fax:  (714) 252-2820
+Attn: Customer Service
+
+Internet E-Mail:  support@interplay.com
+
+World Wide Web:  http://www.interplay.com
+
+BBS:  Telnet to bbs.interplay.com
+
+BBS Modem Phone Number:  (714) 252-2822
+
+America Online: E-mail IPTECH
+
+Compuserve:  GO GAMBPUB or E-mail 76702,1342
+
+FTP Site:  ftp.interplay.com
+
+Mail:  Interplay Customer Service
+16815 Von Karman
+Irvine, CA 92606
+
+
+For Customer Service within the UK and Europe:
+        ----------------------------------------------
+        Write to:       Customer Support
+                        Interplay Productions, Ltd.
+                        Harleyford Manor
+                        Harleyford
+                        Henley Road
+                        Marlow
+                        Buckinghamshire
+                        SL7 2DX
+                        ENGLAND
+  
+                tel:    +44 (0) 1628 423723
+                Fax:    +44 (0) 1628 487752
+  
+                Email:  Europe@interplay.com
+  
+        
+-----------------------------------------------------------------------------
+Credits
+-----------------------------------------------------------------------------
+For Interplay Productions:
+
+Producer
+Chris "The Hick" Benson
+
+Director of QA
+Chad Allison
+
+QA Managers
+Steve Victory and Colin Totman
+
+I.S. Manager
+Frank Pimentel
+
+I.S. Technicians
+Bill Delk and Chris Peak
+
+Lead Redneck
+Darrell "I got Malled in Santa Monica" Jones
+
+Testers
+Tim "Anyone for some hot demon pie" Anderson  
+Erick "Bug 113" Lujan
+
+Director of Compatibility
+Phuong Nguyen
+
+Compatibility Technicians
+Dan Forstyh
+John Parker
+Aaron Olaiz
+Marc Duran
+Derek Gibbs
+
+REDNECK RAMPAGE CUSS! PACK
+
+Visit www.interplay.com on the World Wide Web to download the Redneck
+Rampage Cuss! Pack, which is guaranteed to offend *everyone*.
+In Redneck Rampage, our boys are polite and well-mannered compared to
+the real language they use every day (you know what we mean).  Visit
+our web site and see.
+
+Watch for more great add-ons from Sunstorm.
+Stop by our website at http://www.sunstorm.net to get the latest updates!
+
+Limited Warranty
+        ----------------
+        If within the first ninety days of purchase you have any problems
+        with the product please return it to the retailer.
+        
+        After ninety (90) days , you may return the software program to 
+        Interplay Productions, provided the fault is not due to normal wear 
+        and tear and Interplay will mail a replacement to you.
+        
+        To receive a replacement you should enclose the defective medium 
+        (including the original product label) in protective packaging 
+        accompanied by:
+        
+        1) A cheque or postal order for £10 sterling (to cover postage and
+           packaging).
+        
+        2) A brief statement describing the defect.
+        
+        3) The original receipt or address of the retailer
+        
+        4) Your return address
+        
+        Registered mail is recommended for returns.
+        
+        Please send to:
+        Warranty Replacements, Interplay Productions Ltd., Harleyford Manor,
+        Harleyford, Henley Road, Marlow, Buckinghamshire SL7 2DX, ENGLAND
+ 
+
+SOFTWARE USE LIMITATIONS AND LIMITED LICENSE
+
+        General Product License.  This copy of Suckin' Grits On Route 66
+(the "Software")  is intended solely for your personal noncommercial home
+entertainment use. You may not decompile, reverse engineer, or disassemble
+the Software, except as permitted by law.  Interplay Productions and Xatrix 
+Entertainment retain all right, title and interest in the Software including 
+intellectual property rights embodied therein and derivatives thereof. The
+all Software, including, without limitation, all code, data structures,
+characters, images, sounds, text, screens, game play, derivative works
+and all other elements of the Software may not be copied, resold, rented,
+leased, distributed (electronically or otherwise), used on pay-per-play,
+coin-op or other for-charge basis, or for any commercial purpose. Any
+permissions granted herein are provided on a temporary basis and can be
+withdrawn by Interplay Productions at any time.  All rights not expressly
+granted are reserved.
+
+	Modem and Network Play.  If the Software contains modem or network
+play, you may play the Software via modem transmission with another person or
+persons directly without transmission through a third party service or
+indirectly through a third party service only if such service is an authorized
+licensee of  Interplay.  For the purposes of this license, a "third party
+service" refers to any third party service which provides a connection
+between two or more users of the Software, manages, organizes, or facilitates
+game play, translates protocols, or otherwise provides a service which
+commercially exploits the Software, but does not include a third party
+service which merely provides a telephonic connection (and nothing more)
+for modem or network play.  Weez owes us 17 hoowers! Authorized licensee
+services are listed on the Interplay Productions World Wide Web Site
+located at http://www.interplay.com. This limited right to transmit the
+Software expressly excludes any transmission of the Software or any data
+streams thereof on a commercial basis, including, without limitation,
+transmitting the Software by way of a commercial service (excepting those
+specific commercial services licensed by Interplay) which translates the
+protocols or manages or organizes game play sessions. If you would like
+information about obtaining a pay-for-play or commercial license to the
+Software, please call Interplay Productions in the US at +(714) 553-6655.
+
+	Acceptance of License Terms.  By acquiring and retaining this
+Software, you assent to the terms and restrictions of this limited license.
+If you do not accept the terms of this limited license, you must return the
+Software together with all packaging, manuals and other material contained
+therein to the store where you acquired the Software for a full refund.
+
+"Suckin' Grits on Route 66" was developed by Sunstorm Interactive.
+"Suckin' Grits on Route 66" is a Registered Trademark of Interplay
+Productions.
+
+Copyright 1997 Xatrix Entertainment. All Rights Reserved. Redneck Rampage,
+Redneck Rampage Suckin' Grits on Route 66, Interplay, the Interplay logo,
+"By Gamers. For Gamers" and "By Rednecks. Fer Rednecks." are trademarks of
+Interplay Productions. All Rights Reserved. Xatrix and the Xatrix logo are
+trademarks of Xatrix Entertainment. All Rights Reserved. Sunstorm and the
+Sunstorm logo are trademarks of Sunstorm Interactive. All rights reserved.
+Exclusively licensed and distributed by Interplay Productions.
+
+
+
+
+This game brought to you by the letter Q and A, and the numbers 8 and 12.

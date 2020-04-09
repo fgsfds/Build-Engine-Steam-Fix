@@ -1,0 +1,564 @@
+Helpyall.txt
+Redneck Rampage
+Final version 1.00
+By Xatrix Entertainment, Inc.
+Published by Interplay Productions
+
+
+ABOUT THIS HELPYALL.TXT FILE
+
+This file contains lots of last-minute notes and tips about the game that
+are more up-to-date than the stuff in the printed manual and reference
+card.  It also contains all the instructions for network, modem, and serial
+play.
+
+Redneck Rampage is rated "M" for Machure Audiences Only.
+
+
+TABLE OF CONTENTS
+
+*  How to get the Redneck Rampage Cuss! Pack
+*  About this version
+*  Quick Start - How To Get Going (DOS instructions)
+*  Quick Start - How To Get Going (Windows 95 instructions)
+*  System Requirements
+*  Tips & Tricks
+*  Network Play
+*  Modem Play
+*  Serial Play
+*  Troubleshooting
+*  Playing CD Music
+*  On-line Manual
+*  Interplay Demos
+*  Engage - Playing Redneck Rampage over the Internet
+*  Last Minute Credits
+*  Interplay Customer Service
+*  Legal Mumbo Jumbo
+
+
+REDNECK RAMPAGE CUSS! PACK
+
+Visit www.interplay.com on the World Wide Web to download the Redneck
+Rampage Cuss! Pack, which is guaranteed to offend *everyone*.
+In Redneck Rampage, our boys are polite and well-mannered compared to
+the real language they use every day (you know what we mean).  Visit
+our web site and see.
+
+
+ABOUT THIS VERSION 
+ 
+This is the final CD-ROM version of Redneck Rampage.  Thank you for
+purchasing this fine game!  Please note that THIS GAME IS NOT FREE  
+and we ask you to not pass copies around to your friends.  Instead,
+make them buy their own damn copies of Redneck Rampage, to encourage us
+to keep making great games like this in the future!
+
+If you'd like to pass *something* around to your friends, you can grab
+the free demo version by visiting Interplay's World Wide Web site at
+http://www.interplay.com.
+
+You can also play Redneck Rampage over the Internet via Engage!
+Visit http://www.engagegames.com/redneck to get the Internet-capable version
+of Redneck Rampage so you can feud against rednecks even backer in the
+woods than you are.
+ 
+
+QUICK START -- HOW TO GET GOING 
+DOS INSTRUCTIONS 
+
+If your CD-ROM drive is a letter other than drive D: then substitute
+that letter for the "D:" references in these instructions.
+
+1.  Insert the Redneck Rampage CD-ROM.
+2.  Type D:\INSTALL and then follow the on-screen instructions.
+3.  After installation is complete, the SETUP program will be launched.
+    Follow the on-screen instructions.  You need to configure your sound 
+    card and screen size for sure, and the controller setup if you'd like 
+    to configure your keys.  When you set your screen size, be sure you are 
+    set to 640 x 480 or higher resolution -- we only included a 320 x 200 
+    screen size for those who like to play with a smoother frame rate at 
+    the expense of having to look at the whole world through smeared, 
+    low-resolution beer goggles.
+4.  Pick "Save & launch Redneck Rampage" to begin killing.
+5.  When the game starts, hit ESC to display the menu.  Pick "New Game".
+6.  After the first time you play, you can start the game by going to the 
+    directory where you installed Redneck Rampage, and type RAMPAGE to start 
+    playing.  For instance:
+
+                C:
+                CD \INTRPLAY\REDNECK
+                RAMPAGE
+
+If the game doesn't start up correctly, you may have an old video card
+that doesn't include a VESA driver.  You'll have to load an SVGA VESA driver
+(1.0 or 2.0 is fine).  Consult your video card manufacturer's manual or
+web site to get the card's VESA video driver.
+
+
+QUICK START -- HOW TO GET GOING 
+WINDOWS 95 INSTRUCTIONS 
+
+(Redneck Rampage was designed to be played in DOS only, *not* in a "DOS box"
+in Windows 95.  These instructions will install and play the game while
+making your computer restart in MS-DOS mode each time you launch Redneck
+Rampage.  See the reference card and the "Troubleshooting" section below
+for more details on Windows 95.)
+
+1.  Insert the Redneck Rampage CD-ROM.
+2.  Click "Install" and then follow the on-screen instructions.
+3.  After installation is complete, the SETUP program will be launched.
+    Follow the on-screen instructions.  You need to configure your sound 
+    card and screen size for sure, and the controller setup if you'd like 
+    to configure your keys.  When you set your screen size, be sure you are 
+    set to 640 x 480 or higher resolution -- we only included a 320 x 200 
+    screen size for those who like to play with a smoother frame rate at 
+    the expense of having to look at the whole world through smeared, 
+    low-resolution beer goggles.
+4.  Pick "Save & launch Redneck Rampage" to begin killing.
+5.  When the game starts, hit ESC to display the menu.  Pick "New Game".
+6.  After the first time you play, you can start the game by inserting the
+    Redneck Rampage CD-ROM and clicking the "Play" button.  Or, double-click
+    the "Rampage" shortcut in the directory on your hard disk where you
+    installed the game.  (If you want to try to play in a "DOS box" while
+    Windows 95 is still running, use the "Pighead" shortcut instead of the
+    "Rampage" shortcut.)
+ 
+ 
+SYSTEM REQUIREMENTS 
+ 
+MINIMUM CONFIGURATION: A Pentium P90 with 16MB RAM, a PCI or local bus SVGA 
+video card, about 150 MB free space on a hard disk, and a CD-ROM drive. 
+ 
+RECOMMENDED CONFIGURATION: A Pentium P133 or faster with 32MB RAM, 
+a PCI or local bus SVGA video card, about 150 MB free space on a hard disk, 
+a CD-ROM drive, and a sound card with kick-ass ear-bleeding self-powered 
+speakers. 
+ 
+SUPPORTED GRAPHICS: SVGA 640x480 Minimum. SVGA 1600x1200 Maximum.   
+        320x200 VGA graphics are possible but we truly don't recommend
+        such an awful low-res video mode -- Redneck Rampage was designed
+        with high-resolution textures for a 640x480 display.
+                                                                
+SUPPORTED SOUND: Gravis UltraSound, Sound Blaster/Pro/16/AWE32, Yee-Haaw, 
+Oink Oink, SoundMan 16, Pro Audio Spectrum, SoundScape, WaveBlaster, Sound 
+Canvas, Adlib, Disney Sound Source, and General MIDI.  All the CD music 
+is played through the CD-ROM adapter of your sound card, of course.
+
+
+TIPS & TRICKS
+
+*  If you get caught in a tough spot, surrounded by enemies, use the
+   moonshine and get your ass out of there.
+
+*  Use corners effectively.  Duck behind a corner to avoid the damn-good
+   shooting of Billy Ray and the Coot, then when they walk around the corner
+   to find you, dump a double-load of shotgun shells into them.
+
+*  In general, drink alcohol before eating food, to sober yourself up for
+   the next time you have to hit the bottle.
+
+*  We have heard that if you jump on the back of the truck in Taylortown
+   before *any* chickens are killed on the level, you'll gain 5000 health.
+
+*  Although you have to hit Bubba with your crowbar to end the level, 
+   you should try not to kill him.  If you kill Bubba, you're screwed:
+   you won't be able to end the level.  Don't do this.
+
+
+NETWORK, MODEM, AND SERIAL PLAY
+
+To start a network, modem, or serial game of Redneck Rampage, run the SETUP
+program, then choose "Network Game", "Modem Game", or "Serial Game".  
+
+NETWORK GAME (option in SETUP program)
+
+Although Redneck Rampage supports up to 8 players in a network game,
+you may need supercomputer hardware to avoid "Out of Sync" messages.
+We recommend no more than 6 players, and on slower machines or slower
+networks, 4 players is about as far as you should push it.
+
+The 14 regular levels of Redneck Rampage were designed with solo and 
+cooperative play in mind. Therefore, we have included 7 smaller levels
+for a Pissin' Contest(tm). We recommend that you check out these levels
+when you want to go on a multi-player killin' spree.
+
+To access these levels, launch a network game and select "new game" from the
+main menu. Then select Episode 3 (Pissin' Contest) and choose a level.
+When you are ready, select "start game".
+
+Before you set up a network game for the first time, note that your 
+computer needs IPX drivers installed before you begin, or you will get
+the error message "IPX & NetBIOS not detected".  An IPX driver is an optional
+component of Windows 95 installation, and DOS IPX drivers are also available
+in the Novell NetWare client.  You will have to obtain these drivers from
+another source; they are not included on this CD-ROM and we can't assist
+you in getting IPX drivers or configuring your network.
+
+Here's an explanation of the options after you choose "Network Game" in 
+the SETUP program:
+
+Change Number of Players:  Self-explanatory.   Make sure all players in
+        the network game are set to the same number of players before you
+        start.
+
+Setup Network Socket Number:  All players in a particular net game must be 
+        set to the same network socket number.  You should only have to 
+        change this if multiple Redneck Rampage games are happening on the 
+        same network, so the games don't interfere with each other.
+
+Setup Macros:  Lets you customize your text taunts you can send by hitting
+        Shift-F1 through Shift-F10 while playing.
+
+RTS File Selection:  Lets you customize your shouted taunts you can send
+        by hitting Alt-F1 through Alt-F10 while playing.  If you have made  
+        or received a different RTS file, this option lets you hear the 
+        different taunts.
+
+User Level Selection:  All players in a net game must be set to the same
+        user level selection.  Chooses what level you want to play.
+
+Change Player Name:  Type in your name, peckerhead!
+
+Launch Redneck Rampage:  When everyone has correctly set their "Number of
+        Players", "Network Socket Number", and "User Level" so these numbers
+        agree on all systems, everyone should choose "Save and Launch Redneck 
+        Rampage" to begin playing.
+
+
+MODEM GAME (option in SETUP program)
+
+Here's an explanation of the options after you choose "Modem Game" in 
+the SETUP program:
+
+Already Connected:  Tells the SETUP program you are already connected
+        with your opponent and don't need to dial or pick up the phone.
+
+Wait for Call:  Tells the SETUP program you are going to wait for your
+        opponent to call you.
+
+Dial your Opponent:  Tells the SETUP program you are going to dial your
+        opponent.
+
+Setup COM port:  Lets you specify which COM port your modem is on, and what
+        speed it runs at.
+
+Setup Modem:  Lets you specify what brand of modem you have.  Be sure to
+        set up this option correctly before you begin a modem game.
+        Note that you should not need to change the other initialization
+        options on the "Setup Modem" screen.
+
+Setup Macros:  Lets you customize your text taunts you can send by hitting
+        Shift-F1 through Shift-F10 while playing.
+
+RTS File Selection:  Lets you customize your shouted taunts you can send
+        by hitting Alt-F1 through Alt-F10 while playing.  If you have made  
+        or received a different RTS file, this option lets you hear the 
+        different taunts.
+
+User Level Selection:  Both players in the modem game must be set to the 
+        same user level selection.  Chooses what level you want to play.
+
+Change Player Name:  Type in your name, peckerhead!
+
+Phone Number List:  To tell the SETUP program what number to dial, choose  
+        this option.  Use the arrow keys to go to an empty entry and press
+        E to edit that entry.  Type your opponent's name and phone number,
+        then press Enter to select that phone number to dial.
+
+Launch Redneck Rampage:  When both players have correctly set their "User 
+        Level" to the same level, and one player has chosen "Wait for Call"
+        and the other has chosen "Dial your Opponent" and entered the
+        correct phone number, both players can choose "Save and Launch 
+        Redneck Rampage" to begin playing.
+
+
+SERIAL GAME (option in SETUP program)
+
+Here's an explanation of the options after you choose "Serial Game" in 
+the SETUP program:                                      
+
+Setup COM port:  Lets you specify which COM port you are going to communicate
+        on, and at what speed.
+
+Setup Macros:  Lets you customize your text taunts you can send by hitting
+        Shift-F1 through Shift-F10 while playing.
+
+RTS File Selection:  Lets you customize your shouted taunts you can send
+        by hitting Alt-F1 through Alt-F10 while playing.  If you have made  
+        or received a different RTS file, this option lets you hear the 
+        different taunts.
+
+User Level Selection:  Both players in the serial game must be set to the 
+        same user level selection.  Chooses what level you want to play.
+
+Change Player Name:  Type in your name, peckerhead!
+
+Launch Redneck Rampage:  When both players have correctly set their "User 
+        Level" and the speed of their COM ports to the same speed, both 
+        players can choose "Save and Launch Redneck Rampage" to begin playing.
+
+
+TROUBLESHOOTING
+
+Q:  The sound and animation is *very* jerky.
+A:  This will happen if you run Windows 95 and have only 16MB RAM.
+    On a few systems with Windows 95, it will happen no matter how much RAM
+    is in your machine.  It may also happen on computers running plain DOS
+    (without Windows 95) if some other program like SMARTDRV.EXE is taking
+    up a lot of memory.
+
+    The first thing to try, as mentioned in the printed reference card,
+    is to restart your computer in MS-DOS mode before you play.  You can
+    do this automatically by double-clicking the "Rampage" shortcut located
+    in the "Redneck" directory on your hard disk.  The additional memory 
+    freed up by the absence of Windows 95 should let the game play much 
+    faster.
+
+    If you continue to experience bad jerkiness problems, try to free up
+    memory taken up by items in your CONFIG.SYS or AUTOEXEC.BAT files.
+    For instance, the SMARTDRV.EXE program takes up a lot of memory and
+    will cause Redneck Rampage animation and sound to become jerky.
+    
+    If you have only 16MB RAM, may we humbly suggest that upgrading to
+    32MB RAM will cost you under US$100 and will probably speed up
+    several parts of Windows 95, Redneck Rampage, and many other things 
+    you do with your computer.                                                                   
+
+Q:  When I restart my computer in MS-DOS mode and try to play the game,
+    I don't get any sound, and my mouse control doesn't work.
+A:  If this happens, it means your computer wasn't configured properly at the 
+    factory to make use of your CD-ROM drive, sound card, or mouse.  :-(  
+    Unfortunately, it takes a lot of knowhow to configure all this crap 
+    yourself.  See the refcard for some basic advice on getting your computer 
+    set up properly.
+
+    If you don't have the drivers and knowhow needed to set up your CD-ROM
+    drive, sound card, and mouse properly under DOS, you *may* want to try
+    playing in a "DOS box" under Windows 95, since Windows 95 gives you all 
+    the hardware drivers you need (except you won't get CD music).  You 
+    should have 32MB RAM if you'd like to try running in a "DOS box".  
+    To try this, double-click the "Pighead" shortcut in the directory on 
+    your hard disk where you installed Redneck Rampage.
+
+Q:  I launch the game but it just displays a black screen and locks up.
+A:  This happens on the ATI Mach32 video card with certain versions of
+    ATI's VESA driver software.  If you have a Mach32, try using the VESA
+    video driver that came with the video card.  (We have seen problems
+    using newer versions of the VESA driver.)
+
+    If you have a different video card, contact the video card company
+    to obtain a VESA driver.  This is usually available on video card
+    companies' World Wide Web and BBS sites.
+
+Q:  This game is too dark!
+A:  Adjust your monitor first, *then* press ESC and choose Options and then
+    adjust the screen brightness.
+
+Q:  There's an awful lot of profanity in this game.
+A:  Really?  For even more, visit www.interplay.com and get the Cuss! Pack.
+    If such terrible language is too much for you, you can press ESC, choose
+    Options, and then choose "Parental Lock" (and optionally lock the game
+    into Parental Lock mode with a password).  This will screen out the
+    blood gibs and *some* of the profanity.
+
+Q:  My network game is giving lots of out-of-sync errors.
+A:  First, turn monsters off.  Then try fewer players (6 is very fun and 
+    seems optimal). 
+
+Q:  The game plays too slowly.
+A:  Make sure that in the SETUP program you set the screen size to be 
+    640x480. If you set the screen to a higher resolution (like 640x480) 
+    then the game will run much slower.
+
+    Within the game, press "-" repeatedly to shrink the size of the game
+    window. This will speed up play quite a bit.
+
+Q:  I do not receive CD Audio from the Redneck Rampage disc or any other CD.
+A:  There is a problem with Mitsumi CD ROMS.  If you are playing in Windows 
+    95 we suggest that you take advantage of the CD Player in Windows.  If
+    you are in DOS we suggest that you launch the CD utility that comes with
+    most major sound cards.
+
+Q:  I am getting a slow framerate when I play.
+A:  Try turning the Ambience Off in the Sound Options from the Main Menu.  
+    This will turn off the extra sounds you hear when you are walking around
+    and should help speed things back up.  You can also change the amount of 
+    sounds that are playing from the Setup.exe.  This should help out also.
+
+Q:  Sometimes the game acts strangely in co-operative play.
+A:  Co-op play tends to work best with four players or less.  With more 
+    players you might experience bizarre side-effects, like weapons 
+    disappearing, players not exploding when hit by dynamite, keys not
+    spawning, etc.  Two player co-op is highly recommended as optimal, but
+    four can play co-operatively with few side-effects.  Anything above
+    four players is undertaken at your own risk.
+
+
+PLAYING CD MUSIC
+
+If you're playing in MS-DOS mode like you should, you can access the
+digital 8-track tape by hitting ESC, then choosing OPTIONS, and then choosing
+SOUNDS and then 8-TRACK.  The space bar will turn it on and off; use the 
+arrow keys to change tracks.  The 8-track player will not work if Windows 95 
+is in memory.
+
+If you eject a CD while playing the game, the 8-track unit will be disabled 
+until you quit and run the game again.  A music CD (not necessarily the
+Redneck Rampage CD) must remain in the CD-ROM drive at all times for music
+to work.  Remember, this is an 8-track player, so if you have fancy CD's
+with more than 8 music tracks, yer out of luck.  Your mileage will also
+vary if the 8 music tracks on your CD vary at all from the times of all
+the tracks on the Redneck Rampage CD!
+
+Finally, you can pop the Redneck Rampage CD into your audio CD player and
+relax to the soothing tunes of Mojo Nixon, the Beat Farmers, the Reverend
+Horton Heat, and Cement Pond -- just skip past track 1 before the soothing,
+blasting static of computer data blows out your speakers.
+
+
+ONLINE MANUAL
+
+The "Hickston Hog" game manual is included on the CD-ROM, in the MANUAL
+directory.  For more information about this online manual, see the
+README.TXT file within the MANUAL directory.
+
+
+INTERPLAY DEMOS
+
+Check out the DEMOS folder for demos and movies of other Interplay games. 
+
+
+ENGAGE - PLAYING REDNECK RAMPAGE OVER THE INTERNET
+
+Visit http://www.engagegames.com/redneck to get the Internet-capable version
+of Redneck Rampage!  Check the ENGAGE folder for a demo, and the online
+versions of several other Engage games.  
+
+
+LAST MINUTE CREDITS
+
+Many thanks to Darren Monahan at Interplay for the last-minute autorun and
+stubby programs, and installer changes.
+
+
+INTERPLAY PRODUCTIONS CUSTOMER SERVICE
+
+** USA CONTACTS **
+
+Telephone:  (714) 553-6678
+Fax:        (714) 252-2820 (Attn: Customer Service)
+
+       Internet E-Mail:  support@interplay.com
+        World Wide Web:  http://www.interplay.com
+                   BBS:  Telnet to bbs.interplay.com
+BBS Modem Phone Number:  (714) 252-2822
+        America Online:  Keyword INTERPLAY or E-mail IPTECH
+            Compuserve:  GO GAMBPUB or E-mail 76702,1342
+               Prodigy:  E-mail PLAY99B
+              FTP Site:  ftp.interplay.com
+
+                  Mail:  Interplay Customer Service
+            16815 Von Karman
+            Irvine, CA 92606
+
+** UK AND EUROPE CONTACTS **
+        
+ Write to:  Customer Support
+            Interplay Productions, Ltd.
+            Harleyford Manor
+            Harleyford
+            Henley Road
+            Marlow
+            Buckinghamshire
+            SL7 2DX
+            ENGLAND
+  
+   tel:     +44 (0) 1628 423723
+   Fax:     +44 (0) 1628 487752
+  
+   Email:   Europe@interplay.com
+  
+ Limited Warranty - Europe
+ -------------------------
+        If within the first ninety days of purchase you have any problems
+        with the product please return it to the retailer.
+        
+        After ninety (90) days, you may return the software program to 
+        Interplay Productions, provided the fault is not due to normal wear 
+        and tear, and Interplay will mail a replacement to you.
+        
+        To receive a replacement you should enclose the defective medium 
+        (including the original product label) in protective packaging 
+        accompanied by:
+        
+        1) A cheque or postal order for L10 sterling (to cover postage and
+           packaging).
+        
+        2) A brief statement describing the defect.
+        
+        3) The original receipt or address of the retailer
+        
+        4) Your return address
+        
+        Registered mail is recommended for returns.
+        
+        Please send to:
+        Warranty Replacements, Interplay Productions Ltd., Harleyford Manor,
+        Harleyford, Henley Road, Marlow, Buckinghamshire SL7 2DX, ENGLAND
+
+
+LEGAL MUMBO JUMBO 
+ 
+Copyright (c) 1997 Xatrix Entertainment.  All rights reserved.  Redneck 
+Rampage is a trademark of Interplay Productions.  All rights reserved.  All 
+other trademarks are the property of their respective owners.  Interplay is 
+the exclusive licensor and publisher of Redneck Rampage. 
+                
+SOFTWARE USE LIMITATIONS AND LIMITED LICENSE
+
+General Product License.  This copy of Redneck Rampage (the "Software") is 
+intended solely for your personal noncommercial home entertainment use. 
+You may not decompile, reverse engineer, or disassemble the Software, except 
+as permitted by law.  Are you paying attention, dumb-ass?  Interplay 
+Productions and Xatrix Entertainment retain all right, title and interest 
+in the Software including all intellectual property rights embodied therein 
+and derivatives thereof.  Hi Mom!  The Software, including, without limitation, all 
+code, data structures, characters, images, sounds, text, screens, game play, 
+derivative works and all other elements of the Software may not be copied, 
+resold, rented, leased, distributed (electronically or otherwise), used on  
+pay-per-play, coin-op or other for-charge basis, or for any commercial 
+purpose.  Pardon me, I got to scratch myself.  Any permissions granted herein 
+are provided on a temporary basis and can be withdrawn by Interplay 
+Productions at any time.  All rights not expressly granted are reserved. 
+                                                                                                                                                                                                                           
+Modem and Network Play.  If the Software contains modem or network play, you 
+may play the Software via modem transmission with another person or persons 
+directly without transmission through a third party service or indirectly 
+through a third party service only if such service is an authorized licensee 
+of Interplay.  For the purposes of this license, a "third party service" 
+refers to any third party service which provides a connection between two or 
+more users of the Software, manages, organizes, or facilitates game play, 
+translates protocols, or otherwise provides a service which commercially 
+exploits the Software, but does not include a third party service which 
+merely provides a telephonic connection (and nothing more) for modem or 
+network play.  Vadim Sigalov.  Authorized licensee services are listed on 
+the Interplay Productions World Wide Web Site located at 
+http://www.interplay.com.  This limited right to transmit the Software 
+expressly excludes any transmission of the Software or any data streams 
+thereof on a commercial basis, including, without limitation, transmitting 
+the Software by way of a commercial service (excepting those specific 
+commercial services licensed by Interplay) which translates the protocols 
+or manages or organizes game play sessions.  If you would like information 
+about obtaining a pay-for-play or commercial license to the Software, please 
+call Interplay Productions in the USA at (714) 553-6655.                                              
+
+Redneck Rampage not Fault-tolerant.  Redneck Rampage is not fault-tolerant
+and is not intended, manufactured, or designed for use as on-line control
+equipment in the operation of aircraft navigation or communication systems,
+air traffic control computers, or nuclear facilities in which the failure
+of Redneck Rampage Pissing Contest technology could lead directly to death,
+personal injury, or several physical or environmental damage.
+
+This game was brought to you by the letter M and the number 3.
+
+
